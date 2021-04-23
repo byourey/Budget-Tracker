@@ -1,4 +1,5 @@
 # Budget-Tracker
+<a href="https://by-budget-tracker.herokuapp.com/">View My Deployed Application</a>
 
 # Description
 Using this budeget tracker you can easily check your transactions with/without internet.
@@ -13,5 +14,5 @@ Clone the repo to your computer. In the root folder type npm install and this wi
 * Lite-Server
 * Chart.js
 
-* Screenshot
-![image of the website]("https://github.com/byourey/Budget-Tracker/blob/main/Images/Budget-Tracker.jpg")
+# Screenshot
+![Image of the website](https://github.com/byourey/Budget-Tracker/blob/main/Images/Budget-Tracker.jpg)
