@@ -12,7 +12,7 @@ Clone the repo to your computer. In the root folder type npm install and this wi
 * MongoDB
 * Mongoose
 * Lite-Server
-* Chart.js
+
 
 # Screenshot
 ![Image of the website](https://github.com/byourey/Budget-Tracker/blob/main/Images/Budget-Tracker.jpg)
